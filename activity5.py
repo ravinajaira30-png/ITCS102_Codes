@@ -4,11 +4,12 @@
 a= 10
 b = 3
 
+#+ - Addition 
 sum = a+b 
 
 print("The sum of ",a," and ",b,"is",sum)
 
-# - subtraction 
+#- - subtraction 
 
 a =17
 b = 8 
@@ -17,16 +18,16 @@ difference = a-b
 
 print("The difference of ",a," and ",b,"is",difference)
 
-# * multiplication 
+#* - multiplication 
 
 a = 55
 b=5 
 
-product = a*b
+prod = a*b
 
-print("The product of ",a," and ",b,"is",product)
+print("The product of ",a," and ",b,"is",prod)
 
-# / divisoin 
+#/ - divisoin 
 
 a=18
 b=3
@@ -35,7 +36,7 @@ quotient = a/b
 
 print("The quotient of ",a," and ",b,"is",quotient)
 
-# // floor division 
+#// - floor division 
 
 a= 33
 b=3
@@ -53,7 +54,7 @@ exponentation= a**b
 
 print("The exponentation of ",a," and ",b,"is",exponentation)
 
-#% modulus 
+#% - modulus 
 
 a=17
 b=5
