@@ -1,6 +1,7 @@
-nn = 1
-for x in range (1,6):
+size = int(input("input size: "))
+edzil = 1
+for x in range (size):
     for y in range (x):
-        print(nn, end=" ")
-        nn += 1
+        print(edzil, end=" ")
+        edzil += 1
     print()
