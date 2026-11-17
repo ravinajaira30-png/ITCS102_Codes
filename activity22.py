@@ -15,6 +15,9 @@ while True:
         continue
     else:
         print("thank you")
+        print("so far you have entered the following titles: ")
+        for title in anime_title:
+            print(x)
         break
 
               
